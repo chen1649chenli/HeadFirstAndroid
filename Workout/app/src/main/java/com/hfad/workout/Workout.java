@@ -26,6 +26,7 @@ public class Workout {
     public String getName() {
         return name;
     }
+
     public String toString() {
         return this.name;
     }
